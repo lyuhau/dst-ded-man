@@ -1,0 +1,7 @@
+/bin
+/data
+
+server_log/
+server_log.txt
+server_chat_log/
+server_chat_log.txt
