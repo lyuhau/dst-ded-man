@@ -1,0 +1,36 @@
+KLEI     1 return {
+  enabled_mods={  },
+  server={
+    clan={ admin=false, id="", only=false },
+    description="",
+    encode_user_path=true,
+    game_mode="survival",
+    intention="social",
+    max_players=6,
+    name="New life as an eggplant",
+    online_mode=true,
+    password="ohh",
+    privacy_type=0,
+    pvp=false,
+    server_language="en" 
+  },
+  session_id="1B2B2AD3B6291C76",
+  world={
+    options={
+      background_node_range={ 0, 1 },
+      desc="Delve into the caves... together!",
+      hideminimap=false,
+      id="DST_CAVE",
+      location="cave",
+      max_playlist_position=999,
+      min_playlist_position=0,
+      name="The Caves",
+      numrandom_set_pieces=0,
+      override_level_string=false,
+      overrides={ start_location="caves", task_set="cave_default" },
+      required_prefabs={ "multiplayer_portal" },
+      substitutes={  },
+      version=4 
+    } 
+  } 
+}

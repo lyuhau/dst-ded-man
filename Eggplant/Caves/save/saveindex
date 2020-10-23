@@ -13,7 +13,7 @@ KLEI     1 return {
         name="New life as an eggplant",
         online_mode=true,
         password="ohh",
-        privacy_type=1,
+        privacy_type=0,
         pvp=false,
         server_language="en",
         use_cluster_path=true 
