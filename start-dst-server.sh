@@ -13,7 +13,7 @@ if [[ -z $1 ]]; then
   exit 1
 fi
 
-cd "$HOME/.steam/SteamApps/common/Don't Starve Together Dedicated Server/bin"
+cd "$HOME/.steam/steamapps/common/Don't Starve Together Dedicated Server/bin"
 
 echo "
 screen bash -c './dontstarve_dedicated_server_nullrenderer -console -conf_dir DoNotStarveTogether -cluster $1 -shard Master'
